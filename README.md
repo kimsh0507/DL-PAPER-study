@@ -1,7 +1,21 @@
-# NLP-study
+# PAPER-study
 
-NLP에 관한 논문 정리와 코드 구현을 저장하는 곳입니다.
+AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 구현을 저장하는 곳입니다.
 
+
+## CV
+
+|Paper|Link|Review|Code|
+|---|:---:|:---:|:---:|
+|Very Deep Convolutional Networks for Large-Scale Image Recognition|[Link](https://arxiv.org/abs/1409.1556.pdf)|||
+|Fast R-CNN|[Link](https://arxiv.org/abs/1504.08083.pdf)|[Link](https://wannabeds.tistory.com/15)||
+|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Link](https://arxiv.org/abs/1506.01497.pdf)|[Link](https://wannabeds.tistory.com/16)||
+|You Only Look Once: Unified, Real-Time Object Detection|[Link](https://arxiv.org/abs/1506.02640.pdf)|[Link](https://wannabeds.tistory.com/17)||
+| |[Link]( )|[Link]( )||
+
+
+
+## NLP
 
 |Paper|Link|Review|Code|
 |---|:---:|:---:|:---:|
