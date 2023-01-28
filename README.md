@@ -9,7 +9,7 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 |---|:---:|:---:|:---:|
 |Very Deep Convolutional Networks for Large-Scale Image Recognition|[Link](https://arxiv.org/abs/1409.1556.pdf)|||
 |Fast R-CNN|[Link](https://arxiv.org/abs/1504.08083.pdf)|[Link](https://wannabeds.tistory.com/15)||
-|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Link](https://arxiv.org/abs/1506.01497.pdf)|[Link](https://wannabeds.tistory.com/16)||
+|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Link](https://arxiv.org/abs/1506.01497.pdf)|[Link](https://wannabeds.tistory.com/16)|[Code](https://github.com/kimsh0507/PAPER-study/blob/main/CV%20models/Faster_R_CNN_%EA%B5%AC%ED%98%84.ipynb)|
 |You Only Look Once: Unified, Real-Time Object Detection|[Link](https://arxiv.org/abs/1506.02640.pdf)|[Link](https://wannabeds.tistory.com/17)||
 | |[Link]( )|[Link]( )||
 
