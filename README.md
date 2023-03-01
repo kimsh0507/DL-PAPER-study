@@ -1,4 +1,4 @@
-# PAPER-study
+# DL-PAPER-study
 
 AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 구현을 저장하는 곳입니다.
 
@@ -31,3 +31,12 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 |EDA: Easy Data Augmentation Techniques for Boosting Performanceon Text Classification Tasks|[Paper](https://arxiv.org/pdf/1901.11196.pdf)|||
 |FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS|[Paper](https://arxiv.org/pdf/1711.04043v3.pdf)|||
 |Active Learning: Problem Settings and Recent Developments|[Paper](https://arxiv.org/pdf/2012.04225.pdf)|||
+
+
+## Generative Model
+
+|Paper|Link|Review|Code|
+|---|:---:|:---:|:---:|
+|Auto-Encoding Variational Bayes|[Paper](https://arxiv.org/abs/1312.6114 )|[Review]( )||
+|Generative Adversarial Networks|[Paper](https://arxiv.org/abs/1406.2661 )|[Review]( )||
+|Denoising Diffusion Probabilistic Models|[Paper](https://arxiv.org/pdf/2006.11239.pdf )|[Review]( )||
