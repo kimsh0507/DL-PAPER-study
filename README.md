@@ -39,4 +39,4 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 |---|:---:|:---:|:---:|
 |Auto-Encoding Variational Bayes|[Paper](https://arxiv.org/abs/1312.6114 )|[Review]( )|[Code](https://github.com/kimsh0507/DL-PAPER-study/blob/main/Generative%20Models/VAE_%EA%B5%AC%ED%98%84.ipynb)|
 |Generative Adversarial Networks|[Paper](https://arxiv.org/abs/1406.2661 )|[Review]( )||
-|Denoising Diffusion Probabilistic Models|[Paper](https://arxiv.org/pdf/2006.11239.pdf )|[Review]( )|[Code]()|
+|Denoising Diffusion Probabilistic Models|[Paper](https://arxiv.org/pdf/2006.11239.pdf )|[Review]( )|[Code](https://github.com/kimsh0507/DL-PAPER-study/blob/main/Generative%20Models/Diffusion_Model_%EA%B5%AC%ED%98%84.ipynb)|
