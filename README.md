@@ -19,6 +19,9 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 
 |Paper|Link|Review|Code|
 |---|:---:|:---:|:---:|
+|Word2Vec|[Paper](https://arxiv.org/pdf/1301.3781.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/Word2Vec-93fc917a0a5549e59bcdbb5acb63c45e)||
+|Glove: Global Vectors for Word Representation|[Paper](https://aclanthology.org/D14-1162.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/GloVe-a5124323d53b4ebc84b421759cd772c6)||
+|Seq2Seq|[Paper](https://arxiv.org/pdf/1409.3215.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/Seq2Seq-31403d9817034d01b8e26acce0dd5099)||
 |Attention Is All You Need|[Paper](https://arxiv.org/pdf/1706.03762.pdf)|||
 |KLUE: Korean Language Understanding Evaluation|[Paper](https://arxiv.org/pdf/2105.09680.pdf)|||
 |BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[Paper](https://arxiv.org/pdf/1810.04805.pdf)|||
@@ -26,11 +29,7 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 |ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators|[Paper](https://arxiv.org/pdf/2003.10555.pdf)|||
 |An Improved Baseline for Sentence-level Relation Extraction|[Paper](https://arxiv.org/pdf/2102.01373.pdf)|||
 |ALBERT: A Lite BERT for Self-supervised Learning of Language Representations|[Paper](https://arxiv.org/pdf/1909.11942.pdf)|||
-|BART: Denoising Sequence-to-Sequence Pre-training forNatural Language Generation, Translation, and Comprehension|[Paper](https://arxiv.org/pdf/1910.13461.pdf)|||
-|Don't Stop Pretraining: Adapt Language Models to Domains and Tasks|[Paper](https://arxiv.org/pdf/2004.10964.pdf)|||
-|EDA: Easy Data Augmentation Techniques for Boosting Performanceon Text Classification Tasks|[Paper](https://arxiv.org/pdf/1901.11196.pdf)|||
-|FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS|[Paper](https://arxiv.org/pdf/1711.04043v3.pdf)|||
-|Active Learning: Problem Settings and Recent Developments|[Paper](https://arxiv.org/pdf/2012.04225.pdf)|||
+
 
 
 ## Generative Model
