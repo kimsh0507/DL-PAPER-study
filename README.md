@@ -3,18 +3,6 @@
 AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 구현을 저장하는 곳입니다.
 
 
-## CV
-
-|Paper|Link|Review|Code|
-|---|:---:|:---:|:---:|
-|Very Deep Convolutional Networks for Large-Scale Image Recognition|[Paper](https://arxiv.org/abs/1409.1556.pdf)|||
-|Fast R-CNN|[Paper](https://arxiv.org/abs/1504.08083.pdf)|[Review](https://wannabeds.tistory.com/15)||
-|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Paper](https://arxiv.org/abs/1506.01497.pdf)|[Review](https://wannabeds.tistory.com/16)|[Code](https://github.com/kimsh0507/PAPER-study/blob/main/CV%20models/Faster_R_CNN_%EA%B5%AC%ED%98%84.ipynb)|
-|You Only Look Once: Unified, Real-Time Object Detection|[Paper](https://arxiv.org/abs/1506.02640.pdf)|[Review](https://wannabeds.tistory.com/17)||
-| |[Paper]( )|[Review]( )||
-
-
-
 ## NLP
 
 |Paper|Link|Review|Code|
@@ -31,7 +19,6 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 |ALBERT: A Lite BERT for Self-supervised Learning of Language Representations|[Paper](https://arxiv.org/pdf/1909.11942.pdf)|||
 
 
-
 ## Generative Model
 
 |Paper|Link|Review|Code|
@@ -39,3 +26,14 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 |Auto-Encoding Variational Bayes|[Paper](https://arxiv.org/abs/1312.6114 )|[Review]( )|[Code](https://github.com/kimsh0507/DL-PAPER-study/blob/main/Generative%20Models/VAE_%EA%B5%AC%ED%98%84.ipynb)|
 |Generative Adversarial Networks|[Paper](https://arxiv.org/abs/1406.2661 )|[Review]( )||
 |Denoising Diffusion Probabilistic Models|[Paper](https://arxiv.org/pdf/2006.11239.pdf )|[Review]( )|[Code](https://github.com/kimsh0507/DL-PAPER-study/blob/main/Generative%20Models/Diffusion_Model_%EA%B5%AC%ED%98%84.ipynb)|
+
+
+## CV
+
+|Paper|Link|Review|Code|
+|---|:---:|:---:|:---:|
+|Very Deep Convolutional Networks for Large-Scale Image Recognition|[Paper](https://arxiv.org/abs/1409.1556.pdf)|||
+|Fast R-CNN|[Paper](https://arxiv.org/abs/1504.08083.pdf)|[Review](https://wannabeds.tistory.com/15)||
+|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Paper](https://arxiv.org/abs/1506.01497.pdf)|[Review](https://wannabeds.tistory.com/16)|[Code](https://github.com/kimsh0507/PAPER-study/blob/main/CV%20models/Faster_R_CNN_%EA%B5%AC%ED%98%84.ipynb)|
+|You Only Look Once: Unified, Real-Time Object Detection|[Paper](https://arxiv.org/abs/1506.02640.pdf)|[Review](https://wannabeds.tistory.com/17)||
+| |[Paper]( )|[Review]( )||
