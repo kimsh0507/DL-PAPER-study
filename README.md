@@ -12,10 +12,8 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 |Seq2Seq|[Paper](https://arxiv.org/pdf/1409.3215.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/Seq2Seq-31403d9817034d01b8e26acce0dd5099)||
 |Attention Is All You Need|[Paper](https://arxiv.org/pdf/1706.03762.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/Transformer-e58b44ef85ff42ed927dae7c520b34dd)||
 |BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[Paper](https://arxiv.org/pdf/1810.04805.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/BERT-8e7b56659b8c45c4ab92d79e7c2a5e1a)||
-|RoBERTa: A Robustly Optimized BERT Pretraining Approach|[Paper](https://arxiv.org/pdf/1907.11692.pdf)|||
-|ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators|[Paper](https://arxiv.org/pdf/2003.10555.pdf)|||
 |LLaMA: Open and Efficient Foundation Language Models|[Paper](https://arxiv.org/pdf/2302.13971.pdf)|||
-|ALBERT: A Lite BERT for Self-supervised Learning of Language Representations|[Paper](https://arxiv.org/pdf/1909.11942.pdf)|||
+|A Survey of Large Language Models|[Paper]https://arxiv.org/pdf/2303.18223.pdf)||[Review](https://carbonated-clavicle-b91.notion.site/A-Survey-of-Large-Language-Models-c9a446caec3847e9a9cdc239492e5f27)|
 
 
 ## Generative Model
