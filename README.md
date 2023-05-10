@@ -15,6 +15,7 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 |LLaMA: Open and Efficient Foundation Language Models|[Paper](https://arxiv.org/pdf/2302.13971.pdf)|||
 |A Survey of Large Language Models|[Paper](https://arxiv.org/pdf/2303.18223.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/A-Survey-of-Large-Language-Models-c9a446caec3847e9a9cdc239492e5f27)||
 
+|T0 & FLAN|[T0 Paper](https://arxiv.org/pdf/2110.08207.pdf),[FLAN Paper](https://arxiv.org/pdf/2109.01652.pdf)|[Review]()||
 
 ## Generative Model
 
