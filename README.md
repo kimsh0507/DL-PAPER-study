@@ -11,7 +11,7 @@ AI 관련 공부를 할 때 읽어야할 논문 list와 논문 정리, 코드 �
 |Glove: Global Vectors for Word Representation|[Paper](https://aclanthology.org/D14-1162.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/GloVe-a5124323d53b4ebc84b421759cd772c6)||
 |Seq2Seq|[Paper](https://arxiv.org/pdf/1409.3215.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/Seq2Seq-31403d9817034d01b8e26acce0dd5099)||
 |Attention Is All You Need|[Paper](https://arxiv.org/pdf/1706.03762.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/Transformer-e58b44ef85ff42ed927dae7c520b34dd)||
-|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[Paper](https://arxiv.org/pdf/1810.04805.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/BERT-8e7b56659b8c45c4ab92d79e7c2a5e1a)||
+|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[Paper](https://arxiv.org/pdf/1810.04805.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/BERT-8e7b56659b8c45c4ab92d79e7c2a5e1a)|[Code](https://github.com/kimsh0507/DL-PAPER-study/blob/main/NLP%20models/BERT_%EA%B3%B5%EB%B6%80.ipynb)|
 |LLaMA: Open and Efficient Foundation Language Models|[Paper](https://arxiv.org/pdf/2302.13971.pdf)|||
 |A Survey of Large Language Models|[Paper](https://arxiv.org/pdf/2303.18223.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/A-Survey-of-Large-Language-Models-c9a446caec3847e9a9cdc239492e5f27)||
 |T0 & FLAN|[[T0 Paper]](https://arxiv.org/pdf/2110.08207.pdf),[[FLAN Paper]](https://arxiv.org/pdf/2109.01652.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/T0-FLAN-776344b014104ba2b558ea1566fa68a8)||
