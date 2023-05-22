@@ -14,7 +14,7 @@ AI 관련 공부를 할 때 논문 정리, 코드 구현 및 활용을 저장하
 |BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[Paper](https://arxiv.org/pdf/1810.04805.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/BERT-8e7b56659b8c45c4ab92d79e7c2a5e1a)|[Code](https://github.com/kimsh0507/DL-PAPER-study/blob/main/NLP%20models/BERT_%EA%B3%B5%EB%B6%80.ipynb)|
 |GPT-1|[Paper](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/GPT-1-1e77a270882740b8a3e93ad553bf1e0f)||
 |GPT-2|[Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/GPT-2-076a06b1a2d94759803f8a5b19e1df06)||
-|GPT-3|[Paper]()|||
+|GPT-3:Language Models are Few-Shot Learners|[Paper](https://arxiv.org/pdf/2005.14165.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/GPT-3-0bc6259602fd4f56befd15bd7b93e104)||
 |T0 & FLAN|[[T0 Paper]](https://arxiv.org/pdf/2110.08207.pdf),[[FLAN Paper]](https://arxiv.org/pdf/2109.01652.pdf)|[Review](https://carbonated-clavicle-b91.notion.site/T0-FLAN-776344b014104ba2b558ea1566fa68a8)||
 |GPT-3.5|[Paper]()|||
 |LLaMA: Open and Efficient Foundation Language Models|[Paper](https://arxiv.org/pdf/2302.13971.pdf)|||
